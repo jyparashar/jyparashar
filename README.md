@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay Raj Parashar
-- 👀 I’m Data Science Enthusiast
+- 👀 I’m Data Science Practitioner
 - 🌱 I’m currently working on various Data Analytics and ML Projects
 - 📫 You can reach me at jyparashar@gmail.com
 
